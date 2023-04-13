@@ -13,3 +13,5 @@ Python patterns encode programs in different shapes and formats to create recogn
 * Right angle Trangle shape with your name  
 * Left angle Trangle shape with your name 
 * Center Angle Trangle shape with your name
+
+* Heart pattern by using stars
